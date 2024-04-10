@@ -2,7 +2,7 @@
 
 A Poisson structure on an $n$-dimensional smooth manifold $M$ is defined by a $\mathbb{R}$-bilinear bracket  \{.,.\} on the space of smooth function on $M$, denoted by $C^\infty(M)$, which is anti-symmetric i.e. \{f,g\}=-\{g,f\} for every $f,g\in C^\infty(M)$ and satisfies Leibniz's rule
 
-$\{fg,h\}=f\{g,h\}+g\{f,h\}$
+\{fg,h\}=f\{g,h\}+g\{f,h\}
 
 for every  $f,g,h\in C^\infty(M),$
 and Jacobi identity
